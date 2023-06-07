@@ -93,6 +93,10 @@ p{
     text-decoration:none;
   }
   
+
+  .greeting{
+    text-align: center;
+  }
   
   .nav-links {
     display: flex;
